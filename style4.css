@@ -1,0 +1,92 @@
+#p1{
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 25px;
+    background-color: rgb(255, 255, 255);
+    
+}
+
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+}
+body{
+  background-image: url('b24.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+}
+
+      #ul1 {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: rgb(124, 115, 115);
+      }
+      
+    .li {
+        float: left;
+        
+      }
+      
+    .li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+   
+      .t1 table,th,td{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        border: 1px solid black;
+        text-align: center;
+        padding: 2px;
+    }
+    .t2 table,th,td{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        border: 1px solid rgb(255, 255, 255);
+        text-align: center;
+        padding: 2px;
+    }
+    .i1{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      padding-left: 10px;
+      width: 45px;
+      height: 50px;
+    }
+    .i2{
+
+        float: left;
+        padding-left: 10px;
+        width: 60px;
+        height: 70px;
+      }
+form{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+footer p{
+  text-align: center;
+  padding-bottom: 4px;
+  background-color: rgb(226, 215, 215);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  
+}
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+  
+}
+
+.media-object img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

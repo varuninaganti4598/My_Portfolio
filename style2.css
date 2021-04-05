@@ -1,0 +1,106 @@
+p{
+    font-family: 'Courier New', Courier, monospace; 
+    font-size: 25px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: black;
+    
+    
+}
+body{
+  background-image: url('b24.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+   
+}
+
+
+      #ul1 {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: rgb(124, 115, 115);
+      }
+      
+    .li {
+        float: left;
+      }
+      
+    .li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      
+    .li a:hover {
+      background-color: rgb(34, 133, 226);
+      }
+      .t1 table,th,td{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        border: 1px solid black;
+        text-align: center;
+        padding: 2px;
+        color: black;
+    }
+    .t2 table,th,td{
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 20px;
+        border: 1px solid rgb(255, 255, 255);
+        text-align: center;
+        padding: 2px;
+        color: black;
+        
+    }
+    .t1{
+      margin-left: auto;
+        margin-right: auto;
+    }
+    .t2{
+      margin-left: auto;
+        margin-right: auto;
+    }
+    .t3{
+      margin-left: auto;
+        margin-right: auto;
+    }
+.cont{
+    width: 100%;
+    background-color: darkslategrey;
+}
+.edit{
+  text-align: right; 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  color: white;
+}
+.p{width: 80%; background-color: #2926cc;} 
+.j {width: 80%; background-color: #2926cc;}
+.h {width: 70%; background-color: #2926cc;} 
+.c {width: 70%; background-color: #2926cc;}
+.b {width: 50%; background-color: #2926cc;}
+footer p{
+  text-align: center;
+  padding-bottom: 4px;
+  background-color: rgb(226, 215, 215);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  
+}
+.navbar {
+  margin-bottom: 0;
+  border-radius: 0;
+}
+
+.size {
+  font-size: 18px;
+}
